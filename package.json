@@ -4,7 +4,7 @@
     "description": "scanner code to i18next ",
     "main": "i18n.config.js",
     "bin": {
-        "happy-i18n": "i18n-pick.js"
+        "happy-i18n": "./bin/index.js"
     },
     "directories": {
         "lib": "lib"
