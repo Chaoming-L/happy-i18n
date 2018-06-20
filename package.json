@@ -1,6 +1,6 @@
 {
     "name": "happy-i18n",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "scanner code to i18next ",
     "main": "i18n.config.js",
     "bin": {
